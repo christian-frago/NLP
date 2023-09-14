@@ -1,0 +1,20 @@
+ISO 9001 is an industry standard for quality management systems, ensuring organizations meet customer expectations and continuously improve their processes.
+The Payment Card Industry Data Security Standard (PCI DSS) sets requirements for handling credit card information to prevent fraud and ensure data security.
+The Health Insurance Portability and Accountability Act (HIPAA) establishes standards for protecting sensitive patient health information in the healthcare industry.
+The International Electrotechnical Commission (IEC) provides industry standards for electrical and electronic technologies, ensuring safety, compatibility, and efficiency.
+The International Organization for Standardization (ISO) 27001 sets standards for information security management systems, safeguarding data and mitigating risks.
+The Occupational Safety and Health Administration (OSHA) sets industry standards for workplace safety and health in the United States.
+The International Automotive Task Force (IATF) 16949 specifies quality management system requirements for the automotive industry.
+The International Accounting Standards (IAS) and International Financial Reporting Standards (IFRS) provide a common framework for financial reporting in the global business environment.
+The American National Standards Institute (ANSI) develops and promotes industry standards across various sectors, ensuring consistency and compatibility.
+The Global Reporting Initiative (GRI) provides standards for sustainability reporting, guiding organizations in disclosing their environmental, social, and governance (ESG) performance.
+The IEEE 802.11 standard defines specifications for wireless local area networks (WLANs), commonly known as Wi-Fi.
+The International Air Transport Association (IATA) establishes standards and practices for the global aviation industry, covering areas such as safety, security, and operational efficiency.
+The Good Manufacturing Practice (GMP) guidelines ensure that pharmaceutical and medical device manufacturers adhere to quality and safety standards throughout the production process.
+The International Standard for Business Aircraft Operations (IS-BAO) sets industry standards for the safe and efficient operation of business aircraft.
+The Web Content Accessibility Guidelines (WCAG) provide standards for making web content accessible to people with disabilities, promoting inclusivity and usability.
+The International Standards for Phytosanitary Measures (ISPM) set regulations to prevent the spread of pests and diseases through international trade of plants and plant products.
+The Generally Accepted Accounting Principles (GAAP) outline standard accounting principles and practices in the United States, ensuring consistency and comparability in financial reporting.
+The International Civil Aviation Organization (ICAO) establishes global aviation standards and regulations for air navigation, aircraft operations, and airworthiness.
+The Project Management Institute (PMI) offers industry standards and certifications for project management professionals, ensuring effective project delivery and governance.
+The National Electrical Code (NEC) sets safety standards for electrical installations in buildings and structures, reducing the risk of electrical hazards.

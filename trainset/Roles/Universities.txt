@@ -1,0 +1,20 @@
+Harvard University is a renowned private Ivy League institution located in Cambridge, Massachusetts.
+Stanford University is a prestigious private research university in Stanford, California.
+Oxford University is a prestigious public research university located in Oxford, England.
+MIT (Massachusetts Institute of Technology) is a prestigious private research university in Cambridge, Massachusetts.
+Cambridge University is a renowned public research university located in Cambridge, England.
+Yale University is a private Ivy League institution in New Haven, Connecticut.
+Princeton University is a prestigious private Ivy League institution in Princeton, New Jersey.
+Columbia University is a private Ivy League university located in New York City.
+University of California, Berkeley is a public research university in Berkeley, California.
+University of Oxford is a public research university located in Oxford, England.
+University of Cambridge is a public research university located in Cambridge, England.
+Stanford University is a private research university located in Stanford, California.
+Massachusetts Institute of Technology (MIT) is a private research university in Cambridge, Massachusetts.
+University of Chicago is a private research university in Chicago, Illinois.
+University of California, Los Angeles (UCLA) is a public research university in Los Angeles, California.
+University of Michigan is a public research university located in Ann Arbor, Michigan.
+California Institute of Technology (Caltech) is a private research university in Pasadena, California.
+University of Pennsylvania is a private Ivy League institution in Philadelphia, Pennsylvania.
+University of Toronto is a public research university located in Toronto, Canada.
+Princeton University is a private Ivy League institution located in Princeton, New Jersey.

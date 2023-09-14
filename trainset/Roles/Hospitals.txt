@@ -1,0 +1,20 @@
+ABC Hospital is a renowned medical facility known for its expertise in cardiology and cardiovascular surgeries.
+XYZ Medical Center is a large urban hospital that offers a wide range of medical specialties and services.
+DEF General Hospital is a community hospital that provides comprehensive healthcare services to the local population.
+GHI Children's Hospital specializes in pediatric care, offering specialized treatment for children of all ages.
+JKL Women's Hospital is a leading medical institution dedicated to women's health and maternity care.
+MNO Cancer Center is a specialized hospital that focuses on the diagnosis and treatment of various types of cancer.
+PQR Mental Health Institute is a psychiatric hospital that provides mental health services and treatment for psychiatric disorders.
+STU Rehabilitation Hospital offers specialized rehabilitation services for patients recovering from injuries or surgeries.
+VWX Eye Clinic is a hospital specializing in ophthalmology and providing comprehensive eye care services.
+The university hospital is affiliated with a medical school and offers a broad range of healthcare services and medical research.
+The public hospital provides healthcare services to the general public, regardless of their ability to pay.
+The private hospital offers premium healthcare services and amenities, catering to individuals seeking personalized care.
+The teaching hospital serves as a training ground for medical students, residents, and fellows.
+The research hospital focuses on medical research and clinical trials to advance healthcare knowledge and treatments.
+The community hospital serves the healthcare needs of a specific local community or region.
+The specialty hospital specializes in a particular medical field, such as orthopedics, neurology, or gastroenterology.
+The trauma center is a hospital equipped to provide specialized care for severe and life-threatening injuries.
+The rural hospital serves healthcare needs in rural areas where access to medical services may be limited.
+The government hospital is owned and operated by the government, providing healthcare services to the public.
+The multispecialty hospital offers a wide range of medical specialties and services under one roof
